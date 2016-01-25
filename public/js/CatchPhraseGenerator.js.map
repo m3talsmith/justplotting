@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../app/CatchPhraseGenerator.js"],"names":[],"mappings":";;;;;;;;IACM;;;;kBAES","file":"CatchPhraseGenerator.js","sourcesContent":["\nclass CatchPhraseGenerator {}\n\nexport default CatchPhraseGenerator;"]}

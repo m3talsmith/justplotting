@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../app/PlotGenerator.js"],"names":[],"mappings":";;;;;;;;IACM;;;;kBAES","file":"PlotGenerator.js","sourcesContent":["\nclass PlotGenerator {}\n\nexport default PlotGenerator;"]}

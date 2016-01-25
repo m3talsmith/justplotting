@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>Just Plotting</title>
+	</head>
+	<body>
+		<h1>Just Plotting</h1>
+		<script>
+			function say(words) {
+				var newArguments = [];
+
+				for(var index in arguments) {
+					newArguments.push(arguments[index]);
+				}
+
+				console.log(newArguments.join(" "));
+			}
+		</script>
+	</body>
+</html>
